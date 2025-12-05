@@ -27,4 +27,7 @@ gdpp: The GDP per capita. Calculated as the Total GDP divided by the total popul
 Target: Clustering the Countries using Unsupervised Learning algorithms to help categorizing the countries using socio-economic and health factors that determine the overall development of the country.
 
 
-Source of the dataset : https://www.kaggle.com/datasets/parnianmalekian/country-dataset
+## Dataset Source
+- [Country Dataset on Kaggle](https://www.kaggle.com/datasets/parnianmalekian/country-dataset)
+- All rights and ownership remain with the original dataset publisher.
+
